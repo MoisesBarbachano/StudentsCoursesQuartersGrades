@@ -1,4 +1,5 @@
-# README
+# StudentsCoursesQuartersGrades
+
 
 rails db:create
 rails db:migrate
